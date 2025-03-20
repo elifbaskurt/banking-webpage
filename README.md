@@ -3,13 +3,6 @@
 
 This project is a static website developed using HTML and CSS to create a modern digital banking interface. It aims to provide online banking services with a user-friendly design.
 
-## Content
-
-- **Home Page**: Welcomes users and directs them to essential banking services.
-- **Services**: Provides detailed information about the banking services offered.
-- **About Us**: Shares the bank's mission, vision, and values.
-- **Contact**: Allows users to get in touch with the bank.
-
 ## Technologies Used
 
 - **HTML**: Used to structure the webpage.
